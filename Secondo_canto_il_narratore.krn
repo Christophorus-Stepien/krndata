@@ -12,21 +12,21 @@
 *^	*^	*
 *	*^	*	*	*
 [0c	[0F	[0FF	[0cc	0f	NARRATOR: Głos mojego ukochanego! Oto stoi za naszym murem,
-=	=	=	=	=	=
+=2	=2	=2	=2	=2	=2
 0c_	0F_	0FF_	0cc_	0g	patrzy przez okno, zagląda przez kraty i mówi do mnie:
-=	=	=	=	=	=
+=3	=3	=3	=3	=3	=3
 0c_	0F_	0FF_	0cc_	0a	"Wstań, przyjaciółko moja, i przyjdź!
-=	=	=	=	=	=
+=4	=4	=4	=4	=4	=4
 0c_	0F_	0FF_	0cc_	0b-	Ukaż mi swoją twarz, daj mi usłyszeć twój głos!"
-=	=	=	=	=	=
+=5	=5	=5	=5	=5	=5
 0c_	0F_	0FF_	0cc_	0a	Nim zaświta dzień  i znikną cienie,wróc, miły mój!
-=	=	=	=	=	=
+=6	=6	=6	=6	=6	=6
 0c_	0F_	0FF_	0cc_	0g	I bądź podobny do młodego jelenia na górach Beter!
-=	=	=	=	=	=
+=7	=7	=7	=7	=7	=7
 0c]	0F]	0FF]	0cc]	0f	Pieśń druga.
 *v	*v	*v	*	*	*
 *	*v	*v	*
-==	==	==
+==8	==8	==8
 *-	*-	*-
 !!!system-decoration: [(s1,s2)]
 !!!YEM: Copyright by Tomasz Kozubek. All rights reserved
